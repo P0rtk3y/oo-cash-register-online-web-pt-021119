@@ -39,7 +39,7 @@ class CashRegister
   end 
   
   def items
-    self.cart 
+    cart 
   end 
   
   def void_last_transaction 
